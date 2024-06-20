@@ -16,5 +16,5 @@ docker run -p 8080:8080 todo-app
 ## Приложение должно быть доступно по адресу:
 <http://localhost:8080/app>
 
-## Ссылка на GitHub Pages:
-<https://anastasiiaxx.github.io/1-To-Do-List/>
+## Ссылка на приложение:
+<https://1-to-do-list.vercel.app>
